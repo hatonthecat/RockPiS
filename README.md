@@ -33,6 +33,8 @@ https://github.com/radxa-build/rock-pi-s/releases/tag/20220801-0043
 
 https://github.com/radxa/rock-pi-s-images-released/releases (4.4x)
 
+https://wiki.radxa.com/RockpiS/hardware/revisions
+
 Found an image with Xfce pre-installed; figured this should be easy enough to VNC into. May install a minimal build later on.
 
 997 MB Sep 24, 2021:
