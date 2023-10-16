@@ -20,8 +20,6 @@ https://wiki.radxa.com/RockpiS/hardware
 
 https://www.oracle.com/java/technologies/downloads/#jdk21-windows
 
-https://wiki.radxa.com/RockpiS/ssh
-
 https://wiki.kobol.io/helios64/maskrom
 
 https://www.thanassis.space/rockpis.html
@@ -76,3 +74,16 @@ Got a ping though
 
 It's possible VNC isn't installed on Armbian. Will have to try the adb method. I had already installed Java and the Android SDK but I probably missed a directory or creating the "special folder" and ini files, since it didn't work the last time. (assuming this method lets me remote in). Could be Access Control. Might not be rock@rockpis.local but debian 
 
+https://wiki.radxa.com/RockpiS/ssh I was able to ssh rock@192.168.1.25 and got 
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/1a3ad5d7-7627-4a3f-92a9-a62604341ab1)
+
+but when I typed the password rock it said denied. 
+
+Back to PuTTY:
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/0f54f65a-973a-4071-9f06-2326bf0ff5ae)
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/e53a3b92-cf70-4efb-9ab6-bf2b84bf8ae0)
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/64cf6ea9-9835-4c4f-b24d-1dfd5935f66d)
