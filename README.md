@@ -1,5 +1,5 @@
 # RockPiS
-testing my pre-2022 RockPiS, which requires Linux &lt;5.x
+testing my pre-2022 RockPiS, ~~which may require Linux &lt;5.x~~
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/4ecfd7b2-407d-4e63-b946-d887a9b0acc5)
 
