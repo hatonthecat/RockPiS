@@ -1,25 +1,11 @@
 # RockPiS
 testing my pre-2022 RockPiS, which requires Linux &lt;5.x
 
-SKU	RAM	SD Nand	WiFi/BT	PoE	Note
-
-RS308-D2	256MB	-	-	-	
-
-RS308-D4	512MB	-	-	-	
-
-RS308-D4W	512MB	-	RTL8723DS	-	
-
-RS308-D4WP	512MB	-	RTL8723DS	Supported	
-
-RS308-D4WPN8	512MB	1G Byte	RTL8723DS	Supported	
-
-RS308-D4WPN64	512MB	8G Byte	RTL8723DS	Supported	
-
-[Note1]: additional HAT required to use PoE function.
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/4ecfd7b2-407d-4e63-b946-d887a9b0acc5)
 
 from: https://wiki.radxa.com/RockpiS/hardware/models
 
-Currently, I have the RS308-D2 (256MB)- I plan to use Ethernet & SSH once it is set up but the first image I installed was actually a non-legacy version that is unsupported for RockPi S, as I purchased mine in 2020. 
+I have the RS308-D2 (256MB)- I plan to use Ethernet & SSH once it is set up but the first image I installed was actually a non-legacy version that is unsupported for RockPi S, as I purchased mine in 2020. 
 
 https://wiki.radxa.com/RockpiS
 
