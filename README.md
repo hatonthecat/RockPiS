@@ -22,6 +22,8 @@ https://wiki.radxa.com/RockpiS/ssh
 
 https://wiki.kobol.io/helios64/maskrom
 
+https://github.com/radxa/rock-pi-s-images-released/releases (4.4x)
+
 https://wiki.radxa.com/RockpiS/downloads
 
 https://armbian.lv.auroradev.org/archive/rockpi-s/archive/
