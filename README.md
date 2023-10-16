@@ -7,9 +7,9 @@ from: https://wiki.radxa.com/RockpiS/hardware/models
 
 I have the RS308-D2 (256MB)- I plan to use Ethernet & SSH once it is set up but the first image I installed was actually a non-legacy version that is unsupported for RockPi S, as I purchased mine in 2020. 
 
-https://wiki.radxa.com/RockpiS
-
 https://forum.radxa.com/t/rock-pi-s-linux-images-not-booting/17032
+
+https://wiki.radxa.com/RockpiS
 
 Currently setting up adb:  https://wiki.radxa.com/RockpiS/getting_started
 
