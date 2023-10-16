@@ -1,5 +1,6 @@
 # RockPiS
-testing my pre-2022 RockPiS, ~~which may require Linux &lt;5.x~~
+testing my pre-2022 [RockPi S](https://wiki.radxa.com/RockpiS
+), ~~which may require Linux &lt;5.x~~
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/4ecfd7b2-407d-4e63-b946-d887a9b0acc5)
 
@@ -10,8 +11,6 @@ I have the RS308-D2 (256MB)- I plan to use Ethernet & SSH once it is set up but 
 Edit: my first install with B37 actually did post a blue light (activity), although I was not able to get an IP address when connected to the Ethernet. The legacy version did not boot at all (just a green power led), thus it is possible that I can try the newer kernel if it has been updated.  
 
 https://forum.radxa.com/t/rock-pi-s-linux-images-not-booting/17032
-
-https://wiki.radxa.com/RockpiS
 
 Currently setting up adb: https://wiki.radxa.com/Rock/windows_adb
 
