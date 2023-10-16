@@ -2,15 +2,22 @@
 testing my pre-2022 RockPiS, which requires Linux &lt;5.x
 
 SKU	RAM	SD Nand	WiFi/BT	PoE	Note
+
 RS308-D2	256MB	-	-	-	
+
 RS308-D4	512MB	-	-	-	
+
 RS308-D4W	512MB	-	RTL8723DS	-	
+
 RS308-D4WP	512MB	-	RTL8723DS	Supported	
+
 RS308-D4WPN8	512MB	1G Byte	RTL8723DS	Supported	
+
 RS308-D4WPN64	512MB	8G Byte	RTL8723DS	Supported	
+
 [Note1]: additional HAT required to use PoE function.
 
-hfrom ttps://wiki.radxa.com/RockpiS/hardware/models
+from: https://wiki.radxa.com/RockpiS/hardware/models
 
 https://wiki.radxa.com/RockpiS
 
