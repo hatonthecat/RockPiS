@@ -23,13 +23,13 @@ https://wiki.radxa.com/RockpiS/ssh
 
 https://wiki.kobol.io/helios64/maskrom
 
-https://github.com/radxa/rock-pi-s-images-released/releases (4.4x)
-
 https://wiki.radxa.com/RockpiS/downloads
 
 https://armbian.lv.auroradev.org/archive/rockpi-s/archive/
 
 https://github.com/radxa-build/rock-pi-s/releases/tag/20220801-0043
+
+https://github.com/radxa/rock-pi-s-images-released/releases (4.4x)
 
 Found an image with Xfce pre-installed; figured this should be easy enough to VNC into. May install a minimal build later on.
 
