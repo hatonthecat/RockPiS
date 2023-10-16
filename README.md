@@ -67,5 +67,5 @@ Got a ping though
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/3042efc9-6737-4891-999d-e3761b69c537)
 
-It's possible VNC isn't installed on Armbian. Will have to try the adb method. I had already installed Java and the Android SDK but I probably missed a directory or creating the "special folder" and ini files, since it didn't work the last time.
+It's possible VNC isn't installed on Armbian. Will have to try the adb method. I had already installed Java and the Android SDK but I probably missed a directory or creating the "special folder" and ini files, since it didn't work the last time. (assuming this method lets me remote in)
 
