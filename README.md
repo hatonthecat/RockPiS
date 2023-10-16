@@ -58,3 +58,14 @@ Armbian 22.08 Trunk Focal 5.15.58 Jul 31, 2022 https://github.com/radxa-build/ro
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/17d1bdb5-ce7b-4181-8642-e0e164e23a73)
 
 Now going to try SSH.
+
+Putty did not work, yet.
+
+Got a ping though
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/02407329-0c85-4e5c-ae98-5dc0121c59aa)
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/3042efc9-6737-4891-999d-e3761b69c537)
+
+It's possible VNC isn't installed on Armbian. Will have to try the adb method. I had already installed Java and the Android SDK but I probably missed a directory or creating the "special folder" and ini files, since it didn't work the last time.
+
