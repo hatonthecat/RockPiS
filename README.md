@@ -5,7 +5,7 @@ testing my pre-2022 RockPiS, which requires Linux &lt;5.x
 
 from: https://wiki.radxa.com/RockpiS/hardware/models
 
-I have the RS308-D2 (256MB)- I plan to use Ethernet & SSH once it is set up but the first image I installed was actually a non-legacy version that is unsupported for RockPi S, as I purchased mine in 2020. 
+I have the RS308-D2 (256MB)- I plan to use Ethernet & SSH once it is set up but the first image I installed was actually a non-legacy version that is unsupported for RockPi S (debian bullseye kde b37), as I purchased mine in 2020. 
 
 https://forum.radxa.com/t/rock-pi-s-linux-images-not-booting/17032
 
