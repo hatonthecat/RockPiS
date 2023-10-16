@@ -19,9 +19,9 @@ RS308-D4WPN64	512MB	8G Byte	RTL8723DS	Supported
 
 from: https://wiki.radxa.com/RockpiS/hardware/models
 
-https://wiki.radxa.com/RockpiS
-
 Currently, I have the RS308-D2 (256MB)- I plan to use Ethernet & SSH once it is set up but the first image I installed was actually a non-legacy version that is unsupported for RockPi S, as I purchased mine in 2020. 
+
+https://wiki.radxa.com/RockpiS
 
 https://forum.radxa.com/t/rock-pi-s-linux-images-not-booting/17032
 
