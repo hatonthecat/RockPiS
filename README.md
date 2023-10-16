@@ -7,6 +7,8 @@ from: https://wiki.radxa.com/RockpiS/hardware/models
 
 I have the RS308-D2 (256MB)- I plan to use Ethernet & SSH once it is set up but the first image I installed was actually a non-legacy version that is unsupported for RockPi S (debian bullseye kde b37), as I purchased mine in 2020. 
 
+Edit: my first install with B37 actually did post a blue light (activity), although I was not able to get an IP address when connected to the Ethernet. The legacy version did not boot at all (just a green power led), thus it is possible that I can try the newer kernel if it has been updated.  
+
 https://forum.radxa.com/t/rock-pi-s-linux-images-not-booting/17032
 
 https://wiki.radxa.com/RockpiS
