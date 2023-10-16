@@ -11,11 +11,12 @@ https://forum.radxa.com/t/rock-pi-s-linux-images-not-booting/17032
 
 https://wiki.radxa.com/RockpiS
 
-Currently setting up adb:  https://wiki.radxa.com/RockpiS/getting_started
+Currently setting up adb: https://wiki.radxa.com/Rock/windows_adb
+
+https://wiki.radxa.com/RockpiS/getting_started
 
 https://wiki.radxa.com/RockpiS/hardware
 
-https://wiki.radxa.com/Rock/windows_adb
 https://www.oracle.com/java/technologies/downloads/#jdk21-windows
 
 https://wiki.radxa.com/RockpiS/ssh
