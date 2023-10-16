@@ -25,6 +25,12 @@ https://wiki.radxa.com/RockpiS/ssh
 
 https://wiki.kobol.io/helios64/maskrom
 
+https://www.thanassis.space/rockpis.html
+
+https://nobytes.blogspot.com/2019/09/how-to-set-up-rock-pi-s.html
+
+https://www.perl.com/article/the-rock-pi-s-or-how-to-get-gpio-input-without-a-library/
+
 https://wiki.radxa.com/RockpiS/downloads
 
 https://armbian.lv.auroradev.org/archive/rockpi-s/archive/
@@ -52,6 +58,8 @@ https://forum.radxa.com/t/vnc-server-chromium-gimp-etc/4466
 https://github.com/t2age/RPS/tree/master/vnc
 
 Armbian 22.08 Trunk Focal 5.15.58 Jul 31, 2022 https://github.com/radxa-build/rock-pi-s/releases/tag/20220801-0043 
+
+https://forum.armbian.com/forum/200-rock-pi-s/ 
 
 (https://github.com/radxa-build/rock-pi-s/releases/download/20220801-0043/Armbian_22.08.0-trunk_Rockpi-s_focal_current_5.15.58_xfce_desktop.img.xz)https://github.com/radxa-build/rock-pi-s/releases/download/20220801-0043/Armbian_22.08.0-trunk_Rockpi-s_focal_current_5.15.58_xfce_desktop.img.xz (688MB) Blue blinking LED and...I got an IP address:
 
