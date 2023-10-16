@@ -41,11 +41,11 @@ https://github.com/radxa/rock-pi-s-images-released/releases (4.4x)
 
 https://wiki.radxa.com/RockpiS/hardware/revisions
 
-Found an image with Xfce pre-installed; figured this should be easy enough to VNC into. May install a minimal build later on.
+Found an image with Xfce pre-installed; ~~figured this should be easy enough to VNC into. May install a minimal build later on.~~
 
 997 MB Sep 24, 2021:
 
-https://github.com/radxa/rock-pi-s-images-released/releases/download/rock-pi-s-v20210924/shajin_debian_buster_xfce4_arm64_20210924_0444-gpt.img.gz
+https://github.com/radxa/rock-pi-s-images-released/releases/download/rock-pi-s-v20210924/shajin_debian_buster_xfce4_arm64_20210924_0444-gpt.img.gz (<-did not work)
 
 shajin_debian_buster_xfce4_arm64_20210924_0444-gpt.img
 
@@ -75,5 +75,5 @@ Got a ping though
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/3042efc9-6737-4891-999d-e3761b69c537)
 
-It's possible VNC isn't installed on Armbian. Will have to try the adb method. I had already installed Java and the Android SDK but I probably missed a directory or creating the "special folder" and ini files, since it didn't work the last time. (assuming this method lets me remote in). Could be Access Control.
+It's possible VNC isn't installed on Armbian. Will have to try the adb method. I had already installed Java and the Android SDK but I probably missed a directory or creating the "special folder" and ini files, since it didn't work the last time. (assuming this method lets me remote in). Could be Access Control. Might not be rock@rockpis.local but debian 
 
