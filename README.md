@@ -1,4 +1,8 @@
 # RockPiS
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/fc5047bd-95ab-4b85-bc0a-28ca278019a1)
+
+
 testing my pre-2022 [RockPi S](https://wiki.radxa.com/RockpiS
 ), ~~which may require Linux &lt;5.x~~
 
