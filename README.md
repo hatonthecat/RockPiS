@@ -140,3 +140,7 @@ In Step 4, there is a dropdown tutorial:
 https://dietpi.com/docs/install/
 
 It suggests the local install should be done since this is a headless install, and I may need to run some specific commands for this. It may be a while before my next update until I determine what I should run. 
+
+Sent a bug report
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/35c82172-efe5-402f-b7f9-56bb4401c2ee)
+
