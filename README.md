@@ -95,3 +95,18 @@ Back to PuTTY:
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/e53a3b92-cf70-4efb-9ab6-bf2b84bf8ae0)
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/64cf6ea9-9835-4c4f-b24d-1dfd5935f66d)
+
+----
+10/16/2023
+----
+
+10:39PM
+
+I read DietPi has DropBear SSH already installed, and the Debian Bookworm image is only 129MB, so I am going to reimage the uSD with DietPi instead. Perhaps I will be able to use the login, provided this image works with the older RK3308. The purpose of this is to just run/test a SSH/VNC anyways, intially at least.
+
+https://dietpi.com/docs/install/
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/3d36bc30-42d7-4953-85a8-74c6a6650aa0)
+
+Next update may be in an hour or so.
+
