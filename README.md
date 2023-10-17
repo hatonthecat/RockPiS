@@ -10,7 +10,7 @@ I have the RS308-D2 (256MB)- I plan to use Ethernet & SSH once it is set up but 
 
 Edit: my first install with B37 actually did post a blue light (activity), although I was not able to get an IP address when connected to the Ethernet. The legacy version did not boot at all (just a green power led), thus it is possible that I can try the newer kernel if it has been updated.  
 
-I also read that some of the newer images have a different bootloader, and I am not yet able to see if it can load the OS. Since the board I am using doesn't have any NAND flash, I wasn't planning on installing the OS anyways, but using the uSD card as a live-boot (and possibly removing it if loading an OS running in RAM) for something that can run in less than 256MB. My tests on the Raspberry Pi Zero v1.3 (not the 2W with a-53s) show that Raspup can boot from RAM using less than 512MB- and when idling uses around 100MB:
+I also read that some of the newer images have a different bootloader, and I am not yet able to see if it can load the OS. Since the board I am using doesn't have any onboard NAND flash, ~~I wasn't planning on installing the OS anyways, but~~ I may use the uSD card as a live-boot (and possibly remove it if loading an OS running in RAM) for something that can run in less than 256MB. My tests on the Raspberry Pi Zero v1.3 (not the 2W with a-53s) show that Raspup can boot from RAM using less than 512MB- and when idling uses around 100MB:
 
 These videos were made last year that show the relative performance, showing that there would be enough room to run on 256MB:
 
