@@ -130,4 +130,5 @@ As it was trying to update packages it ran into an apt-get error (at the bottom 
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/24da0da5-c14c-4877-8a93-b714c5989a2a)
 
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/125a31e6-8d0e-4bc9-955e-b86fd0660ebc)
 
