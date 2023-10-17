@@ -2,9 +2,13 @@
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/fc5047bd-95ab-4b85-bc0a-28ca278019a1)
 
+---
+10/15/2023
+---
 
-testing my pre-2022 [RockPi S](https://wiki.radxa.com/RockpiS
-), ~~which may require Linux &lt;5.x~~
+testing my pre-2022 [RockPi S](https://wiki.radxa.com/RockpiS) 
+
+~~which may require Linux &lt;5.x~~
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/4ecfd7b2-407d-4e63-b946-d887a9b0acc5)
 
