@@ -132,7 +132,9 @@ As it was trying to update packages it ran into an apt-get error (at the bottom 
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/125a31e6-8d0e-4bc9-955e-b86fd0660ebc)
 
-There is an important step that I overlooked:
+Attempt #2: https://www.youtube.com/watch?v=dFmKf0A0jK8
+
+There is an important step that I overlooked (although the survey step is after the installation):
 
  ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/e5a185f2-5304-49bd-8b90-3492c2753426)
 
