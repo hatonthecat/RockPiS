@@ -110,3 +110,7 @@ https://dietpi.com/docs/install/
 
 Next update may be in an hour or so.
 
+The uncompressed size is 941MB. Might even fit on a 1GB card.
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/909db3eb-d9c5-4ea9-b5c8-7f1206acd71f)
+
