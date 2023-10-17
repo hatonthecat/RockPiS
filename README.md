@@ -132,3 +132,11 @@ As it was trying to update packages it ran into an apt-get error (at the bottom 
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/125a31e6-8d0e-4bc9-955e-b86fd0660ebc)
 
+There is an important step that I overlooked:
+
+ ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/e5a185f2-5304-49bd-8b90-3492c2753426)
+
+In Step 4, there is a dropdown tutorial:
+https://dietpi.com/docs/install/
+
+It suggests the local install should be done since this is a headless install, and I may need to run some specific commands for this. It may be a while before my next update until I determine what I should run. 
