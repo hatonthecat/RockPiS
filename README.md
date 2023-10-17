@@ -144,3 +144,4 @@ It suggests the local install should be done since this is a headless install, a
 Sent a bug report
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/35c82172-efe5-402f-b7f9-56bb4401c2ee)
 
+https://github.com/MichaIng/DietPi
