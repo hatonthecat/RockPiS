@@ -123,3 +123,11 @@ https://dietpi.com/survey/#benchmark
 
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/acdfedc4-325d-419e-b9b7-9fea6077640d)
+
+PuTTY was able to login using the DietPi instructions (#4- username: root, pw: dietpi
+
+As it was trying to update packages it ran into an apt-get error (at the bottom of this screenshot before a blue menu appears:
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/24da0da5-c14c-4877-8a93-b714c5989a2a)
+
+
