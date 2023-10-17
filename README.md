@@ -40,15 +40,9 @@ https://wiki.radxa.com/RockpiS/hardware/revisions
 
 Found an image with Xfce pre-installed; ~~figured this should be easy enough to VNC into. May install a minimal build later on.~~
 
-997 MB Sep 24, 2021:
+997 MB Sep 24, 2021: https://github.com/radxa/rock-pi-s-images-released/releases/download/rock-pi-s-v20210924/shajin_debian_buster_xfce4_arm64_20210924_0444-gpt.img.gz (<-did not work)
 
-https://github.com/radxa/rock-pi-s-images-released/releases/download/rock-pi-s-v20210924/shajin_debian_buster_xfce4_arm64_20210924_0444-gpt.img.gz (<-did not work)
-
-shajin_debian_buster_xfce4_arm64_20210924_0444-gpt.img
-
-Kernel version: 4.4.143-65-rockchip-g58431d38f8f3
-
-U-Boot version: 2017.09-02378-g6de46245e6
+https://www.armbian.com/rockpi-s/#kernels-archive-all 
 
 https://forum.radxa.com/t/vnc-server-chromium-gimp-etc/4466
 
