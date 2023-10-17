@@ -18,6 +18,10 @@ https://www.youtube.com/watch?v=MMFIzx3Cm9Q
 
 https://www.youtube.com/watch?v=inho4odu5gw
 
+-----
+
+https://xogium.performanceservers.nl/archive/rockpi-s/
+
 https://forum.radxa.com/t/rock-pi-s-linux-images-not-booting/17032
 
 Currently setting up adb: https://wiki.radxa.com/Rock/windows_adb
