@@ -64,7 +64,9 @@ Armbian 22.08 Trunk Focal 5.15.58 Jul 31, 2022 https://github.com/radxa-build/ro
 
 https://forum.armbian.com/forum/200-rock-pi-s/ 
 
-(https://github.com/radxa-build/rock-pi-s/releases/download/20220801-0043/Armbian_22.08.0-trunk_Rockpi-s_focal_current_5.15.58_xfce_desktop.img.xz)https://github.com/radxa-build/rock-pi-s/releases/download/20220801-0043/Armbian_22.08.0-trunk_Rockpi-s_focal_current_5.15.58_xfce_desktop.img.xz (688MB) Blue blinking LED and...I got an IP address:
+https://forum.radxa.com/c/rockpiS
+
+(https://github.com/radxa-build/rock-pi-s/releases/download/20220801-0043/Armbian_22.08.0-trunk_Rockpi-s_focal_current_5.15.58_xfce_desktop.img.xz)https://github.com/radxa-build/rock-pi-s/releases/download/20220801-0043/Armbian_22.08.0-trunk_Rockpi-s_focal_current_5.15.58_xfce_desktop.img.xz (688MB) (takes up ~5.6GB on 8GB uSD card, flashed with Balena Etcher) Blue blinking LED and...I got an IP address:
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/17d1bdb5-ce7b-4181-8642-e0e164e23a73)
 
