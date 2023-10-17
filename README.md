@@ -158,3 +158,20 @@ Sent a bug report
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/35c82172-efe5-402f-b7f9-56bb4401c2ee)
 
 https://github.com/MichaIng/DietPi
+
+---
+5:50AM
+---
+Got Diet Pi install finalized, and, htop running:
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/d64d5291-338f-4506-a5a0-c46bc0f75dd1)
+
+cpu info:
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/6fbdb9ee-25cb-4cfe-88ae-b36e9d92f628)
+
+Video of htop and cpu info: https://youtu.be/-dD84AaBrh8?feature=shared
+
+Full Install (videos 4-6) https://www.youtube.com/watch?v=jv35s1LCADI
+
+Part of Playlist https://www.youtube.com/watch?v=dFmKf0A0jK8&list=PLKvMTg3KKwP2Iy7gcRMd1MY0651N_3HQ_ 
