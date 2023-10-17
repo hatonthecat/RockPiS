@@ -114,3 +114,12 @@ The uncompressed size is 941MB. Might even fit on a 1GB card.
 
 ![image](https://github.com/hatonthecat/RockPiS/assets/76194453/909db3eb-d9c5-4ea9-b5c8-7f1206acd71f)
 
+10:51PM I got the blue light to blink in sequence.
+
+Also found a benchmark
+https://dietpi.com/survey/#benchmark
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/dcefc084-79fd-450b-9d3e-5a108a07469b)
+
+
+![image](https://github.com/hatonthecat/RockPiS/assets/76194453/acdfedc4-325d-419e-b9b7-9fea6077640d)
